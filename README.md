@@ -22,7 +22,7 @@
 - [ ] [SEO tutorial for beginners](https://www.hobo-web.co.uk/seo-tutorial/)
 
 ### Javascript
-- [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- [✓] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [ ] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
 - [ ] [7 Reasons Why JavaScript Async/Await Is Better Than Plain Promises](https://dev.to/gafi/7-reasons-to-always-use-async-await-over-plain-promises-tutorial-4ej9)
 - [ ] [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
@@ -40,10 +40,10 @@
 - [ ] [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 
 ### React
-- [ ] [Learn Basics of React.js in 11 Minutes](https://medium.com/@madhupathy/learn-basics-of-react-js-in-3-minutes-a94cbc6f02c8)
-- [ ] [React JS Crash Course - 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
-- [ ] [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
-- [ ] [All the fundamental React.js concepts, jammed into this one article](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/)
+- [✓] [Learn Basics of React.js in 11 Minutes](https://medium.com/@madhupathy/learn-basics-of-react-js-in-3-minutes-a94cbc6f02c8)
+- [✓] [React JS Crash Course - 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
+- [✓] [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- [✓] [All the fundamental React.js concepts, jammed into this one article](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/)
 - [ ] [Beginner ReactJS Testing Tutorial ](https://www.youtube.com/watch?v=REfRxzmWDLs)
 - [ ] [Introducing React Hooks ](https://www.youtube.com/watch?v=mxK8b99iJTg)
 
